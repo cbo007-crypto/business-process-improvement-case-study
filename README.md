@@ -22,6 +22,6 @@ The case study evaluates a current-state onboarding process, identifies key oper
 Deliverables
 
 * PowerPoint presentation
-* PDF presentation
+* Fishbone diagram
 
 Disclaimer: This project was created for educational and portfolio purposes using publicly available information and reasonable business assumptions. It does not represent any company’s internal or confidential processes.
