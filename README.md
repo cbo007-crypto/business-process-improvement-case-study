@@ -28,6 +28,6 @@ The case study evaluates a current-state onboarding process, identifies key oper
 
 The fishbone diagram identifies key factors contributing to delays in the small business account onboarding process.
 
-![Fishbone Diagram](fishbone_diagram_worksheet- color.png) 
+![Fishbone Diagram](Fishbone%20Diagram.png) 
 
 Disclaimer: This project was created for educational and portfolio purposes using publicly available information and reasonable business assumptions. It does not represent any company’s internal or confidential processes.
